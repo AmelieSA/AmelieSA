@@ -10,9 +10,9 @@
 
 ### About Me 
 
-I am doing my BSc in Informatics at the University of Zurich. I design and build production web apps with Next.js, React and TypeScript, and I'm the lead developer of swissinterns.ch and currently working at VJ-Intelligence, where I focus on frontend development for different projects.
+I am doing my BSc in Informatics at the University of Zurich. I design and build production web apps with Next.js, React and TypeScript, and I'm the lead developer of swissinterns.ch and currently working at [VJ-Intelligence](https://www.vj-intelligence.com/), where I focus on frontend development for different projects.
 
-🔭 &nbsp;I'm currently working on **swissinterns.ch, MyDirector.AI &amp; more**  
+🔭 &nbsp;I'm currently working on [swissinterns.ch](https://www.swissinterns.ch/en), [MyDirector.AI](https://get-mydirector.com/) &amp; more  
 💬 &nbsp;Ask me about **UI/UX design ;)**  
 😄 &nbsp;Pronouns: **she/her**  
 
